@@ -4,17 +4,17 @@ import org.junit.Before;
 import org.junit.Test;
 
 /**
- * The test class TestPractica5PRG.
+ * The test class TestLabAct5PRG.
  *
  * @author  Adrian Palacios
  * @version 1.0
  */
-public class TestPractica5PRG
+public class TestLabAct5PRG
 {
     /**
-     * Default constructor for test class TestPractica5PRG
+     * Default constructor for test class TestLabAct5PRG
      */
-    public TestPractica5PRG()
+    public TestLabAct5PRG()
     {
     }
 
